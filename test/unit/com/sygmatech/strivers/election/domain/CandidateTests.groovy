@@ -1,0 +1,19 @@
+package com.sygmatech.strivers.election.domain
+
+
+
+import grails.test.mixin.*
+import org.junit.*
+
+import com.sygmatech.strivers.election.domain.Candidate;
+
+/**
+ * See the API for {@link grails.test.mixin.domain.DomainClassUnitTestMixin} for usage instructions
+ */
+@TestFor(Candidate)
+class CandidateTests {
+
+    void testSomething() {
+       fail "Implement me"
+    }
+}
